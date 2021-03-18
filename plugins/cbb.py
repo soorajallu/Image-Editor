@@ -1,4 +1,4 @@
-# By @TroJanzHEX
+# By @filimsmovie
 from image.edit_1 import (  # pylint:disable=import-error
     bright,
     mix,
@@ -111,7 +111,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "SOURCE CODE", url="https://t.me/RorschachMovies"
                     )
                 ],
             ]
@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "GROUP", url="https://t.me/filimsmovie"
                     )
                 ],
             ]
@@ -148,7 +148,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "GROUP", url="https://t.me/RorschachMovies/2861"
                     )
                 ],
             ]
